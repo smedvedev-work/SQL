@@ -1,1 +1,1 @@
-# <img src="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.png" style="height: 30px; width:30px;"/> SQL scripts library
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Database.svg/32px-Database.svg.png"/>  SQL scripts library
