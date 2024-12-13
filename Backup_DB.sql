@@ -1,0 +1,3 @@
+Backup DATABASE [upe] TO  DISK = N'\\lg-ns-lsnt-prod\SQLBackup\upe\upe'
+WITH  COPY_ONLY, NOFORMAT, INIT, NAME = N'upe', SKIP, REWIND, NOUNLOAD, COMPRESSION,  STATS = 10
+GO
